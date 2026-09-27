@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|solutionrelative:Lab_1_DorovsD\\LinearEquation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|solutionrelative:Lab_1_DorovsD\\LinearEquation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\Lab_1_DorovsD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B37FF09B-3682-4D2C-A810-F4C233C8638C}|Lab_1_DorovsD\\Lab_1_DorovsD.vcxproj|solutionrelative:Lab_1_DorovsD\\Lab_1_DorovsD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinearEquation.cpp",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.cpp",
+              "RelativeDocumentMoniker": "Lab_1_DorovsD\\LinearEquation.cpp",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.cpp",
+              "RelativeToolTip": "Lab_1_DorovsD\\LinearEquation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-26T20:14:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinearEquation.h",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.h",
+              "RelativeDocumentMoniker": "Lab_1_DorovsD\\LinearEquation.h",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\LinearEquation.h",
+              "RelativeToolTip": "Lab_1_DorovsD\\LinearEquation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-26T20:02:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab_1_DorovsD.cpp",
+              "DocumentMoniker": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\Lab_1_DorovsD.cpp",
+              "RelativeDocumentMoniker": "Lab_1_DorovsD\\Lab_1_DorovsD.cpp",
+              "ToolTip": "E:\\\u041E\u041E\u041F\\Lab_1_DorovsD\\Lab_1_DorovsD\\Lab_1_DorovsD.cpp",
+              "RelativeToolTip": "Lab_1_DorovsD\\Lab_1_DorovsD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-26T19:59:50.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
